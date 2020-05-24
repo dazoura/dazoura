@@ -1,3 +1,2 @@
 # dazoura
-seilapo
-porrotchola
+fodagames
